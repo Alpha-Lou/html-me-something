@@ -1,7 +1,7 @@
 /*css sheet for html me something */
 
 h2 {font-family: Cursive; margin-top: 1em;
-  padding-top: 1em; text-align:center}
+  padding-top: 1em; text-align:center; font-size: x-large;}
 
 body {margin: 0 auto;
   max-width: 50em;  line-height: 1.5;
@@ -11,5 +11,5 @@ body {margin: 0 auto;
 
 p {font-family: Arial}
 
-
-img {height: 3em; width: 3em}
+a {color:blue; text-decoration: underline; }
+img {height: 10em; width: 10em}
