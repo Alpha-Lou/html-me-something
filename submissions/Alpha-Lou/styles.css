@@ -2,9 +2,9 @@
 
 h2 {font-family: Cursive; color: #151B54; margin-top: 1em;
   padding-top: 1em; text-align:center}
-body {background-color: black; margin: 0 auto;
+body {margin: 0 auto;
   max-width: 50em;  line-height: 1.5;
   padding: 4em 1em;
 }
-p {font-family: Arial; background-color: blue}
-img {height: auto; width: auto}
+p {font-family: Arial}
+img {height: 1em; width: 1em}
