@@ -1,0 +1,8 @@
+/*css sheet for html me something */
+
+h2 {font-family: Cursive; color: #151B54; margin-top: 1em;
+  padding-top: 1em;}
+body {background-color: black; margin: 0 auto;
+  max-width: 50em;  line-height: 1.5;
+  padding: 4em 1em;
+}
