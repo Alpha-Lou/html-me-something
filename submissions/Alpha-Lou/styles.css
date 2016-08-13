@@ -1,10 +1,15 @@
 /*css sheet for html me something */
 
-h2 {font-family: Cursive; color: #151B54; margin-top: 1em;
+h2 {font-family: Cursive; margin-top: 1em;
   padding-top: 1em; text-align:center}
+
 body {margin: 0 auto;
   max-width: 50em;  line-height: 1.5;
   padding: 4em 1em;
 }
+
+
 p {font-family: Arial}
-img {height: 50px; width: 50px}
+
+
+img {height: 3em; width: 3em}
